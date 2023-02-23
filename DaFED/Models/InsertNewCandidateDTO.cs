@@ -6,14 +6,14 @@ namespace DaFED.Models
     {
         [Required]
         [MinLength(3)]
-        [MaxLength(20)]
+        [MaxLength(5)]
         public string FirstName { get; set; }
         [Required]
         [MinLength(3)]
-        [MaxLength(20)]
+        [MaxLength(4)]
         public string LastName { get; set; }
         [Required]
-        [Range(10, 46)]
+        [Range(45, 46)]
         public int Age { get; set; }
         [Required]
         public Quality Quality { get; set; }
