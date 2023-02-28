@@ -1,5 +1,5 @@
-Good,Cedomir,Ribic,34
-Decent,Dragan,Ralic,33
+Good,Goran,Gogic,34
+Decent,Sima,Simic,33
 Bad,Bane,Banic,75
 Decent,Branko,Brankic,40
 Good,Pavle,Pavlic,25
