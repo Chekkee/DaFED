@@ -6,6 +6,7 @@ Chalengers should try solve following issues in this test API:
 - Retrieving "Bad" candidates works well, do not change anything there
 - Retrieving candidates younger then certain age acctually returns candidates older then proposed age, fix this bug
 - Inserting new candidate is not working as it should
+    - When trying to insert new candidate exception is risen, handle it, or remove it
     - First name should be required field, with length between 3 and 20 characters
     - Last name should be required field, with length between 3 and 20 characters
     - Age should be required field, with values between 1 and 100
